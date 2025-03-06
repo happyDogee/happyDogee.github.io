@@ -41,7 +41,7 @@ enable_copy_code_button: true
 
 # Build settings
 markdown: kramdown
-remote_theme: happyDogees/minimal-mistakes
+remote_theme: happyDogee/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
