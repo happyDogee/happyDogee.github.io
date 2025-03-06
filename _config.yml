@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 github_username: happyDogee
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# logo: "/assets/images/bio-photo.jpg" # 网站标头徽标
+logo: "/assets/images/heart_like_love_icon.png" # 网站标头徽标
 search: true
 
 # 面包屑导航 
@@ -79,11 +79,11 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://happydogee.github.io"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/happyDogee"
 
     - label: "Bilibili"
       icon: "fab fa-fw fa-bilibili"
@@ -93,7 +93,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/happyDogee"
     - label: "Bilibili"
       icon: "fab fa-fw fa-bilibili"
       url: "https://space.bilibili.com/2178807720"
@@ -107,7 +107,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: true
       related: true
       show_date: true
@@ -128,7 +128,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "happydogee-github-io.disqus.com/admin/"
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "happydogee-github-io.disqus.com/admin/"
