@@ -75,7 +75,7 @@ plugins:
 author:
   name   : "Liu Zhenhong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "生命久如暗室，不妨我明写春诗."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
