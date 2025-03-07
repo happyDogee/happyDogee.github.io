@@ -43,7 +43,9 @@ enable_copy_code_button: true
 markdown: kramdown
 remote_theme: happyDogee/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
+
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -71,7 +73,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-postfiles
 author:
   name   : "Liu Zhenhong"
   avatar : "/assets/images/bio-photo.jpg"
