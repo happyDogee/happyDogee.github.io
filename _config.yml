@@ -17,9 +17,8 @@ title: happyDogee's blog
 title_separator: "|"
 email: 2178807720@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  作者:湖南大学计算机科学与技术专业本科生
+  个人博客，记录学习和生活的点点滴滴，技术博客
 
 github_username: happyDogee
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
