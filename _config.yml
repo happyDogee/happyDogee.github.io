@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 github_username: happyDogee
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-logo: "/assets/images/heart_like_love_icon.png" # 网站标头徽标
+logo: "/assets/default/heart_like_love_icon.png" # 网站标头徽标
 search: true
 
 # 面包屑导航 
@@ -76,7 +76,7 @@ plugins:
   - jekyll-postfiles
 author:
   name   : "Liu Zhenhong"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/default/bio-photo.jpg"
   bio    : "生命久如暗室，不妨我明写春诗."
   links:
     - label: "Website"
@@ -134,3 +134,4 @@ tag_archive:
 #   provider: "disqus"
 #   disqus:
 #     shortname: "happydogee-github-io.disqus.com/admin/"
+google_site_verification: "google-site-verification=g2aWmw8TRPqUF3F3lKGSBinX6DnOrYEWMeRcVLwNuVU"
