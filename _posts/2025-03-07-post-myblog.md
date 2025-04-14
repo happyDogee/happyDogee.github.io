@@ -1,5 +1,5 @@
 ---
-title: "敦煌 | 海子的诗"
+title: "敦煌——海子的诗"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
