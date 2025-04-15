@@ -9,10 +9,7 @@ tags:
   - standard
 ---
 
-敦 
-
-
-墩煌石窟
+## 墩煌石窟
 
 象马肚子下
 挂着一只只木桶
@@ -31,3 +28,15 @@ tags:
 为了一只目松鼠
 为了一只母蜜蜂
 为了让她们在春天再次怀孕
+
+```c
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  return 0;
+}
+```
+
+> 鲁迅没说过
